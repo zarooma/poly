@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@polygonjs/polygonjs": "^1.1.260"
+  }
+}
